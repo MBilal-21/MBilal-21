@@ -1,67 +1,43 @@
-# Hi, I'm Bilal Ashraf 👋
-**Web Developer · AI Enthusiast · Lifelong Learner**
+# Hi there, I'm Bilal Ashraf 👋
 
-I build interactive web experiences and explore AI-driven solutions—from converting Figma designs into React apps to creating ML-backed advisors.
+### AI Engineer & MERN Stack Developer | Architecting Secure LLMs & Intelligent Web Solutions
 
----
-
-##  Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **`bilalashraf`** | My latest TypeScript-based project—currently in development. | TypeScript |
-| **`agroaegis`** | Recent project (July 2025) featuring (add a short purpose/description). | TypeScript |
-| **`skincare-advisor`** | AI-powered skincare recommendation system. Showcases Python and data modeling. | Python, ML |
-| **`filmyword`** | Interactive movie info app with sleek UI and external API integration. | JavaScript |
-| **`Yoga-Learning-website`** | Figma-to-React conversion: a responsive learning platform. | React, Figma |
-| **`netflixclone`** | An engaging Netflix UI clone using pure HTML/CSS/JS. | HTML, CSS, JavaScript |
-
-
+I am a software engineer specializing in secure full-stack web applications (React, Next.js, Node.js) and Generative AI infrastructure. My work bridges scalable software architecture with practical, metric-driven AI security—whether deployed on edge devices or in the cloud.
 
 ---
 
-##  Skills & Tools
+## 🚀 Featured Projects & Technical Impact
 
-**Frontend & Web Dev**  
-JavaScript · TypeScript · React · HTML · CSS · Responsive Design
+### 🛡️ Layered LLM Security Architecture
+*Adversarial Defense | Python | Hugging Face | QLoRA | DistilBERT*
+* **Accomplished** a 71% reduction in prompt injection Attack Success Rates (ASR) **as measured by** the successful interception of 84% of adversarial jailbreaks, **by** engineering a 3-layered AI defense pipeline utilizing a DistilBERT firewall and a QLoRA fine-tuned TinyLlama model.
 
-**AI & Data Science**  
-Python · Machine Learning · Skincare Advisor Model · Hugging Face (see my profile below)
+### 🎫 EventGateway - Full-Stack Event Management
+*Next.js | React | Node.js | Supabase | TailwindCSS*
+* **Accomplished** a streamlined departmental event platform **as measured by** the deployment of secure, scannable QR code ticketing with zero data breaches, **by** architecting a responsive MERN/Next.js application utilizing strict database isolation policies.
 
-**Others**  
-Git & GitHub · Figma-to-Code · APIs · UI/UX Design
-
----
-
-##  Explore More
-
--  [My GitHub](https://github.com/MBilal-21) – Full project list & detailed code  
--  [Hugging Face](https://huggingface.co/MBilal-72) – Browse my AI models and experiments  
+### 📟 Protecher - Smart Safety IoT System
+*C++ | ESP32 | MQTT | Cloudinary Edge Computing*
+* **Accomplished** highly efficient edge-to-cloud data routing **as measured by** zero-latency critical alerts and direct media uploads, **by** engineering a hardware ecosystem using optimized deterministic thresholds instead of resource-heavy ML decision trees on the microcontroller.
 
 ---
 
-##  Connect with Me
+## 🛠️ Technical Arsenal
 
-- LinkedIn: [bilalashraf72](https://www.linkedin.com/in/bilalashraf72)  
-- GitHub: [MBilal-21](https://github.com/MBilal-21)  
-- Hugging Face: [MBilal-72](https://huggingface.co/MBilal-72)
+* **AI & Machine Learning:** LLM Red-Teaming, Adversarial Defenses, Model Fine-Tuning (PEFT/QLoRA), Prompt Engineering, Python.
+* **Full-Stack Development:** MERN Stack, Next.js, React, Node.js, Kotlin (Native Android).
+* **Databases & Cloud:** Supabase, MongoDB, PostgreSQL, Firebase.
+* **Systems & Hardware:** ESP32 Microcontrollers, IoT Architecture, MQTT Protocol, Local Network Routing.
 
 ---
 
-✨ *“Transforming design and data into dynamic, impactful code.”*  
+## 📈 Current Focus
+* Actively exploring advanced Retrieval-Augmented Generation (RAG) architectures.
+* Expanding MERN stack capabilities for high-concurrency enterprise applications.
+* Open to roles in **AI Engineering** and **Full-Stack Software Development**.
 
-
-<!--
-**MBilal-21/MBilal-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect & Collaborate
+* **LinkedIn:** [linkedin.com/in/bilalashraf72](https://www.linkedin.com/in/bilalashraf72/)
+* **Hugging Face:** [huggingface.co/MBilal-72](https://huggingface.co/MBilal-72) 
+* **Kaggle:** [kaggle.com/bila1l](https://www.kaggle.com/bila1l)
+* **Email:** bilalm3313@gmail.com
