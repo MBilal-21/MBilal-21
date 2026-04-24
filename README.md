@@ -13,7 +13,7 @@ I am a software engineer specializing in secure full-stack web applications (Rea
 * **Accomplished** a 71% reduction in prompt injection Attack Success Rates (ASR) **as measured by** the successful interception of 84% of adversarial jailbreaks, **by** engineering a 3-layered AI defense pipeline utilizing a DistilBERT firewall and a QLoRA fine-tuned TinyLlama model.
 
 ### 🎫 EventGateway - Full-Stack Event Management
-*Next.js | React | Node.js | Supabase | TailwindCSS*
+*Next.js | React | Node.js | Mongodb | TailwindCSS*
 * **Accomplished** a streamlined departmental event platform **as measured by** the deployment of secure, scannable QR code ticketing with zero data breaches, **by** architecting a responsive MERN/Next.js application utilizing strict database isolation policies.
 
 ### 📟 Protecher - Smart Safety IoT System
