@@ -10,7 +10,7 @@ I am a software engineer specializing in secure full-stack web applications (Rea
 
 ### 🛡️ Layered LLM Security Architecture
 *Adversarial Defense | Python | Hugging Face | QLoRA | DistilBERT*
-* **Accomplished** a 71% reduction in prompt injection Attack Success Rates (ASR) **as measured by** the successful interception of 84% of adversarial jailbreaks, **by** engineering a 3-layered AI defense pipeline utilizing a DistilBERT firewall and a QLoRA fine-tuned TinyLlama model.
+* **Accomplished** a 91.25 percentage point reduction in Attack Success Rate (ASR) - from 100% on the undefended baseline to 8.75% on the secured system - **by** engineering a 3-layer defense-in-depth pipeline that successfully intercepted 365 out of 400 adversarial jailbreak attempts (91.25%). The pipeline integrates a fine-tuned DistilBERT input firewall (Layer 1, 99.25% F1), a QLoRA safety-aligned TinyLlama 1.1B generator (Layer 2, 77.95% token accuracy), and a zero-shot MNLI semantic output validator (Layer 3), all deployed on consumer-grade hardware.
 
 ### 🎫 EventGateway - Full-Stack Event Management
 *Next.js | React | Node.js | Mongodb | TailwindCSS*
